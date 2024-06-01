@@ -28,7 +28,7 @@ Some of us minimalism fans still stick to Old Reddit, and r/IndianTeenagers didn
 - Before:
 Before I implemented custom stylesheet, it looked kinda weird.
 
-![](https://i.imgur.com/ILJRXYG.png)
+![](https://i.imgur.com/Fv8hbD2.png)
 
 
 ## Contributing
